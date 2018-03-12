@@ -20,8 +20,7 @@
 void barra(){
 
      system("clear");
-     system("toilet --gay -fpagga CELUVITA\n\n");
-     system("toilet -fpagga El juego de la vida\n");
+     system("toilet --gay -fpagga RAYITRES\n\n");
      system("setterm -cursor off"); // OCULTA EL CURSOR
      sleep(2);
 
